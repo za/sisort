@@ -1,5 +1,5 @@
-from datetime import timedelta
-from datetime import datetime
+from datetime import datetime, timedelta
+
 
 def index():
     pass
